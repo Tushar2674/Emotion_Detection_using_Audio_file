@@ -8,7 +8,8 @@ This contains the development and evaluation of a machine learning model designe
 **Step3** - Download **gui.py** (the Tkinter file ) and run it . 
    
 # NOTE         
-1 . Run the gui.py without debugging otherwise may result as error (in vscode use Ctrl + F5 ) to run without debugging.         
-2 . **Task2.ipynb** that contain model generation and training .      
-3 . The report file is also attached **Task2_report**.      
-4. The demonstration vedio **Task2_vedio** is also uploaded to showcase the procedure .      
+1. A **requirements.txt** is also provided for required package details .    
+2. Run the gui.py without debugging otherwise may result as error (in vscode use Ctrl + F5 ) to run without debugging.         
+3. **Task2.ipynb** that contain model generation and training .      
+4. The report file is also attached **Task2_report**.      
+5. The demonstration vedio **Task2_vedio** is also uploaded to showcase the procedure .      
