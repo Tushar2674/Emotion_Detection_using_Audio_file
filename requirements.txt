@@ -1,0 +1,13 @@
+tk
+filedialog, messagebox
+os-sys
+numpy
+librosa
+pydub
+tensorflow
+keras
+sounddevice
+scipy
+wavio
+temp
+threaded
