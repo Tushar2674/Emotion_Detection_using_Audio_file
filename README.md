@@ -13,3 +13,6 @@ This contains the development and evaluation of a machine learning model designe
 3. **Task2.ipynb** that contain model generation and training .      
 4. The report file is also attached **Task2_report**.      
 5. The demonstration vedio **Task2_vedio** is also uploaded to showcase the procedure .      
+
+# RECORDING WAY 
+**while record your own voice try to record in a noise free environment or after recording enhance the audio through ai for best result else may give error**
