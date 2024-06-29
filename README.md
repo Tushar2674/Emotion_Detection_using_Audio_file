@@ -15,4 +15,5 @@ This contains the development and evaluation of a machine learning model designe
 5. The demonstration vedio **Task2_vedio** is also uploaded to showcase the procedure .      
 
 # RECORDING WAY 
-**while record your own voice try to record in a noise free environment or after recording enhance the audio through ai for best result else may give error**
+**while record your own voice try to record in a noise free environment or after recording enhance the audio through ai for best result else may give error**            
+the dataset have also been provided to upload the audio file in gui.py       
